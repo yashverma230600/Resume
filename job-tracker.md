@@ -1,0 +1,8 @@
+- Company
+- Role
+- Applied On
+- Resume Version
+- Recruiter
+- Status
+- Interview Dates
+- Notes
